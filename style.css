@@ -1,0 +1,21 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+#errors {
+    color: red;
+}
+#success {
+  color: green;
+}
+
+#BankStuff {
+  padding: 300px 0;
+  text-align: center;
+}
+
+#deleteBank {
+  color: red;
+}
+
